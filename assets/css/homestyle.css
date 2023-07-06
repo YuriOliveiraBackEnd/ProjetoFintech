@@ -23,6 +23,12 @@ background-color:#232c35 ;
     font-weight: 800;
     margin-top: 70px;
 }
+.dark    #hamburgue {
+        width: 20px;
+        border-top: 2px solid;
+        display: block;
+        color: #FFD11D;
+    }
 .dark th {
     max-height: 150px;
     background: black !important;
